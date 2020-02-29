@@ -1,0 +1,12 @@
+[Project]
+FileName=D:\UNIVERSITAS\SEMESTER 1 (SATU) 2017-2018\PRAK_ALGORITMA DAN PEMOGRAMAN\Algoritma\A_Pangkat_B\A_Pangkat_B.dp
+Name=A_Pangkat_B
+MainUnit=D:\UNIVERSITAS\SEMESTER 1 (SATU) 2017-2018\PRAK_ALGORITMA DAN PEMOGRAMAN\Algoritma\A_Pangkat_B\APangkatB.pas
+UnitCount=1
+ResFiles=E:\DataMahasiswa\MuhammadFarhaan_IF4\A_Pangkat_B\rsrc.rc
+NoConsole=0
+IsDll=0
+Icon=C:\Dev-Pas\Icon\Mainicon.ico
+[Unit1]
+FileName=D:\UNIVERSITAS\SEMESTER 1 (SATU) 2017-2018\PRAK_ALGORITMA DAN PEMOGRAMAN\Algoritma\A_Pangkat_B\APangkatB.pas
+FileTime=1263170535
